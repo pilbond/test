@@ -1,0 +1,240 @@
+{
+  "characters": [
+    {
+      "charID": "738",
+      "charName": "Arya Stark",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Arya_Stark",
+      "charFirst": "1",
+      "charAllegiance": "House Stark, Faceless Men",
+      "charSigil": "Stark.jpg",
+      "charCulture": "Northmen",
+      "charReligion": "Old Gods of the Forest, Faith of the Seven, Many-Faced God",
+      "charOrigin": "Winterfell",
+      "totalAppearances": "47"
+    },
+    {
+      "charID": "739",
+      "charName": "Benjen Stark",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Benjen_Stark",
+      "charFirst": "1",
+      "charAllegiance": "House Stark, Three-eyed raven, Night's Watch",
+      "charSigil": "NightsWatch.jpg",
+      "charCulture": "Northmen",
+      "charReligion": "Old Gods of the Forest",
+      "charOrigin": "",
+      "totalAppearances": "7"
+    },
+    {
+      "charID": "740",
+      "charName": "Bran Stark",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Bran_Stark",
+      "charFirst": "1",
+      "charAllegiance": "House Stark",
+      "charSigil": "Stark.jpg",
+      "charCulture": "Northmen",
+      "charReligion": "Old Gods of the Forest",
+      "charOrigin": "Winterfell",
+      "totalAppearances": "30"
+    },
+    {
+      "charID": "743",
+      "charName": "Catelyn Stark",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Catelyn_Stark",
+      "charFirst": "1",
+      "charAllegiance": "House Stark, House Tully",
+      "charSigil": "Stark.jpg",
+      "charCulture": "Andal",
+      "charReligion": "Faith of the Seven",
+      "charOrigin": "Riverrun",
+      "totalAppearances": "25"
+    },
+    {
+      "charID": "449",
+      "charName": "Cersei Lannister",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Cersei_Lannister",
+      "charFirst": "1",
+      "charAllegiance": "House Lannister, House Baratheon of King's Landing",
+      "charSigil": "Lannister.jpg",
+      "charCulture": "Andal",
+      "charReligion": "",
+      "charOrigin": "Casterly Rock, the Westerlands",
+      "totalAppearances": "52"
+    },
+    {
+      "charID": "147",
+      "charName": "Cohollo",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Cohollo",
+      "charFirst": "1",
+      "charAllegiance": "Drogo",
+      "charSigil": "Dothraki.jpg",
+      "charCulture": "Dothraki",
+      "charReligion": "Great Stallion",
+      "charOrigin": "Dothraki sea",
+      "totalAppearances": "4"
+    },
+ 
+    {
+      "charID": "390",
+      "charName": "Jon Snow",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Jon_Snow",
+      "charFirst": "1",
+      "charAllegiance": "House Stark, Night's Watch",
+      "charSigil": "Stark.jpg",
+      "charCulture": "Northmen",
+      "charReligion": "Old Gods of the Forest",
+      "charOrigin": "Tower of Joy, Winterfell",
+      "totalAppearances": "49"
+    },
+  
+    {
+      "charID": "749",
+      "charName": "Rickon Stark",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Rickon_Stark",
+      "charFirst": "1",
+      "charAllegiance": "House Stark",
+      "charSigil": "Stark.jpg",
+      "charCulture": "Northmen",
+      "charReligion": "Old Gods of the Forest",
+      "charOrigin": "Winterfell",
+      "totalAppearances": "14"
+    },
+    {
+      "charID": "750",
+      "charName": "Robb Stark",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Robb_Stark",
+      "charFirst": "1",
+      "charAllegiance": "House Stark",
+      "charSigil": "Stark.jpg",
+      "charCulture": "Northmen",
+      "charReligion": "Old Gods of the Forest, Faith of the Seven",
+      "charOrigin": "Riverrun, Winterfell",
+      "totalAppearances": "22"
+    },
+   
+    {
+      "charID": "894",
+      "charName": "Varys",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Varys",
+      "charFirst": "3",
+      "charAllegiance": "House Targaryen, House Baratheon of King's Landing",
+      "charSigil": "RobertBaratheon.jpg",
+      "charCulture": "Lysene",
+      "charReligion": "",
+      "charOrigin": "Lys, Free Cities",
+      "totalAppearances": "35"
+    },
+    {
+      "charID": "951",
+      "charName": "Yoren",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Yoren",
+      "charFirst": "3",
+      "charAllegiance": "Night's Watch",
+      "charSigil": "NightsWatch.jpg",
+      "charCulture": "",
+      "charReligion": "",
+      "charOrigin": "",
+      "totalAppearances": "7"
+    },
+    {
+      "charID": "107",
+      "charName": "Bronn",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Bronn",
+      "charFirst": "4",
+      "charAllegiance": "House Lannister, sellsword",
+      "charSigil": "Lannister.jpg",
+      "charCulture": "",
+      "charReligion": "",
+      "charOrigin": "",
+      "totalAppearances": "29"
+    },
+    {
+      "charID": "143",
+      "charName": "Gregor Clegane",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Gregor_Clegane",
+      "charFirst": "4",
+      "charAllegiance": "House Lannister, House Clegane, Kingsguard",
+      "charSigil": "Clegane.jpg",
+      "charCulture": "Andal",
+      "charReligion": "",
+      "charOrigin": "Clegane's Keep",
+      "totalAppearances": "17"
+    },
+    {
+      "charID": "680",
+      "charName": "Gyles Rosby",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Gyles_Rosby",
+      "charFirst": "4",
+      "charAllegiance": "House Rosby, House Baratheon of King's Landing",
+      "charSigil": "RobertBaratheon.jpg",
+      "charCulture": "Andal",
+      "charReligion": "",
+      "charOrigin": "Rosby",
+      "totalAppearances": "3"
+    },
+    {
+      "charID": "369",
+      "charName": "Hugh",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Hugh",
+      "charFirst": "4",
+      "charAllegiance": "House Arryn",
+      "charSigil": "Arryn.jpg",
+      "charCulture": "Andal",
+      "charReligion": "",
+      "charOrigin": "Vale of Arryn",
+      "totalAppearances": "2"
+    },
+   
+    {
+      "charID": "11",
+      "charName": "Armeca",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Armeca",
+      "charFirst": "7",
+      "charAllegiance": "Petyr Baelish",
+      "charSigil": "Baelish.jpg",
+      "charCulture": "",
+      "charReligion": "",
+      "charOrigin": "Flea Bottom, King's Landing",
+      "totalAppearances": "4"
+    },
+
+      
+    
+    {
+      "charID": "666",
+      "charName": "Rhalko",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Rhalko",
+      "charFirst": "54",
+      "charAllegiance": "",
+      "charSigil": "Dothraki.jpg",
+      "charCulture": "Dothraki",
+      "charReligion": "Great Stallion",
+      "charOrigin": "Dothraki Sea",
+      "totalAppearances": "3"
+    },
+    {
+      "charID": "377",
+      "charName": "Ironborn 2",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Ironborn_2_(The_Door)",
+      "charFirst": "55",
+      "charAllegiance": "Euron Greyjoy",
+      "charSigil": "Greyjoy.jpg",
+      "charCulture": "",
+      "charReligion": "Drowned God",
+      "charOrigin": "Iron Islands",
+      "totalAppearances": "1"
+    },
+
+    {
+      "charID": "121",
+      "charName": "Captain of the archers",
+      "charURL": "http:\/\/gameofthrones.wikia.com\/wiki\/Captain_of_the_archers_(House_Bolton)",
+      "charFirst": "59",
+      "charAllegiance": "House Bolton",
+      "charSigil": "Bolton.jpg",
+      "charCulture": "Northmen",
+      "charReligion": "Old Gods of the Forest",
+      "charOrigin": "",
+      "totalAppearances": "1"
+    }
+  ]
+}
